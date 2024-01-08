@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Lucas Teixeira 🖐️
 
 ![Lucas Github stats](https://github-readme-stats.vercel.app/api?username=Falconxtr&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falconxtr&layout=compact&theme=dracula)
 
 <div> 
   <a href = "mailto:lucasteixeira19982010@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
